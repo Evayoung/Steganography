@@ -36,8 +36,6 @@ Get a glimpse of Stego in action!
 | :---------------------------------: | :---------------------------------: |
 | ![Decryption Screen](screenshots/decryption_screen.png) | ![About Screen](screenshots/about_screen.png) |
 
-*(Remember to replace `screenshots/home_screen.png`, `screenshots/encryption_screen.png`, etc., with the actual paths to your screenshot images once you add them to your repository.)*
-
 ## How it Works (Under the Hood) 
 
 1.  **Preparation:**
