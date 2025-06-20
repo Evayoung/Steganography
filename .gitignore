@@ -1,0 +1,21 @@
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore the __pycache__ directory
+__pycache__/
+
+# Ignore build directories
+build/
+dist/
+
+# Ignore environment files
+.env
+
+# Ignore cache directories
+.cache/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
